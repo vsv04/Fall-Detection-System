@@ -5,14 +5,14 @@ This GitHub repository hosts the programs, hardware list and the schematics for 
 The interested reader can download and read the [**Research Paper**](https://github.com/vsv04/Fall-Detection-System/blob/master/RESEARCH%20PAPER/Research%20Paper.pdf) (pdf document) which has all the details.
 
 
-## 1. Assemble the Fall Detection System
+## Assembling the Fall Detection System
 The [**Components List**](https://github.com/vsv04/Fall-Detection-System/tree/master/COMPONENTS%20LIST) folder has a list of parts needed for the fall detection system. Assembly instructions can be found in the [**Schematics**](https://github.com/vsv04/Fall-Detection-System/tree/master/SCHEMATICS) folder.
 
 ![](https://github.com/vsv04/Fall-Detection-System/blob/master/SCHEMATICS/Images/Fall_detection_system_V2.jpg)
 ![](https://github.com/vsv04/Fall-Detection-System/blob/master/SCHEMATICS/Images/Fall_detection_system_V3.jpg)
 **Raspberry Pi 4 connected to the thermal camera and the fully assemled fall detection system**
 
-## 2. Download the Programs
+## Downloading the Programs
 The [**Code**](https://github.com/vsv04/Fall-Detection-System/tree/master/CODE) folder has the Python programs for the fall detection system. 
 
 
