@@ -2,7 +2,7 @@
 
 This GitHub repository hosts the programs, hardware list, schematics for the fall detection system developed for a high school research project. This project is open-source and allows individuals to assemble the system, download the Python code and utilize the system. 
 
-The interested reader can download and read the [**Research Paper**](https://github.com/vsv04/Fall-Detection-System/blob/master/RESEARCH%20PAPER/Research%20Paper.pdf) (3.4MB pdf) which has additional information.
+The interested reader can download and read the [**Research Paper**](https://github.com/vsv04/Fall-Detection-System/blob/master/RESEARCH%20PAPER/Research%20Paper.pdf) pdf document which has additional information.
 
 
 ## Assembling the Fall Detection System
