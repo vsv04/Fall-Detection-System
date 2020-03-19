@@ -4,4 +4,7 @@ This GitHub repository has the programs, hardware list, schematics for the fall 
 
 The interested reader can download and read the [research paper](https://github.com/vsv04/Fall-Detection-System/blob/master/RESEARCH%20PAPER/Research%20Paper.pdf) which has additional information.
 
-![Caption](https://github.com/vsv04/Fall-Detection-System/blob/master/SCHEMATICS/Images/Fall_detection_system_V2.jpg)
+![](https://github.com/vsv04/Fall-Detection-System/blob/master/SCHEMATICS/Images/Fall_detection_system_V2.jpg)
+
+
+![](https://github.com/vsv04/Fall-Detection-System/blob/master/SCHEMATICS/Images/Fall_detection_system_V3.jpg)
