@@ -6,7 +6,7 @@ The interested reader can download and read the [**Research Paper**](https://git
 
 
 ## Assembling the Fall Detection System
-The [Components List](https://github.com/vsv04/Fall-Detection-System/tree/master/COMPONENTS%20LIST) folder has a list of parts needed for the fall detection system. Assembly instructions can be found in the [Schematics](https://github.com/vsv04/Fall-Detection-System/tree/master/SCHEMATICS) folder.
+The [**Components List**](https://github.com/vsv04/Fall-Detection-System/tree/master/COMPONENTS%20LIST) folder has a list of parts needed for the fall detection system. Assembly instructions can be found in the [**Schematics**](https://github.com/vsv04/Fall-Detection-System/tree/master/SCHEMATICS) folder.
 
 ![](https://github.com/vsv04/Fall-Detection-System/blob/master/SCHEMATICS/Images/Fall_detection_system_V2.jpg)
 ![](https://github.com/vsv04/Fall-Detection-System/blob/master/SCHEMATICS/Images/Fall_detection_system_V3.jpg)
