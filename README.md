@@ -7,8 +7,10 @@ The interested reader can download and read the [research paper](https://github.
 
 ## Assembling the Fall Detection System
 ![](https://github.com/vsv04/Fall-Detection-System/blob/master/SCHEMATICS/Images/Fall_detection_system_V2.jpg)
+
 Fig. 1. Thermal camera connected to a Raspberry Pi 4
 
 ![](https://github.com/vsv04/Fall-Detection-System/blob/master/SCHEMATICS/Images/Fall_detection_system_V3.jpg)
+
 Fig. 2. Final fall detection system
 
