@@ -16,7 +16,13 @@ The [**Components List**](https://github.com/vsv04/Fall-Detection-System/tree/ma
 The Deep Learning program uses [Google's TensorFlow](https://www.tensorflow.org/) and [Keras](https://keras.io/). Instructions for installing TensorFlow and Keras on the Raspberry Pi can be found [here](https://keras.io/). 
 The [**Code**](https://github.com/vsv04/Fall-Detection-System/tree/master/CODE) folder has the Python programs for the fall detection system. 
 
-_**Install dependencies and prerequisites**_
+_**Installing TensorFlow**_
+```
+sudo pip3 install tensorflow
+
+```
+
+_**Installing Keras**_
 ```
 sudo apt-get install python3-numpy
 sudo apt-get install libblas-dev
@@ -27,14 +33,11 @@ sudo apt-get install gfortran
 sudo apt-get install python3-setuptools
 sudo apt-get install python3-scipy
 sudo apt-get update
-sudo apt-get install python3-opencv
 sudo apt-get install python3-h5py
-```
+sudo pip3 install keras 
 
-_**Then install TensorFlow and Keras**_
-```
 pip install scipy
 pip install cython
-pip install tensorflow
+
 pip install keras
 ```
