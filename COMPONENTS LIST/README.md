@@ -7,7 +7,7 @@ The fall detection system uses a [Raspberry Pi 4](https://www.raspberrypi.org/pr
 
 ![](https://github.com/vsv04/Fall-Detection-System/blob/master/COMPONENTS%20LIST/Images/Raspberry%20Pi%204.jpg)
 
-The Raspberry Pi 4 board or complete kits can be purchased from [CanaKit](https://www.canakit.com/raspberry-pi-4-2gb.html). 
+The Raspberry Pi 4 board can be purchased from [CanaKit](https://www.canakit.com/raspberry-pi-4-2gb.html). You can also purchase a [complete starter kit](https://www.canakit.com/raspberry-pi-4-complete-starter-kit-official-case.html) that comes with a Rasperyy Pi 4, case, power supply, keyboard, mouse and SD card. 
 
 ## FLIR Lepton Thermal Camera
 The [FLIR Lepton](https://www.flir.com/products/lepton/?model=500-0763-01) thermal camera has a 80x60 pixel resolution with a 50° field of view. 
@@ -15,3 +15,7 @@ The [FLIR Lepton](https://www.flir.com/products/lepton/?model=500-0763-01) therm
 ![](https://github.com/vsv04/Fall-Detection-System/blob/master/COMPONENTS%20LIST/Images/FLIR%20Lepton.jpg)
 
 The FLIR Lepton 2.5 with development board can be purchased from [Sparkfun](https://www.sparkfun.com/products/15948).
+
+## Additional components
+[Raspberry Pi case](https://www.canakit.com/official-raspberry-pi-case.html)
+[Raspberry Pi power supply]()
