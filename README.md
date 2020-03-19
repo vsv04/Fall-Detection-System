@@ -27,7 +27,7 @@ sudo apt-get install gfortran
 sudo apt-get install python3-setuptools
 sudo apt-get install python3-scipy
 sudo apt-get update
-sudo apt install python3-opencv
+sudo apt-get install python3-opencv
 sudo apt-get install python3-h5py
 ```
 
