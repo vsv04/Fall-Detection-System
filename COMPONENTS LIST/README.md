@@ -13,3 +13,5 @@ The Raspberry Pi 4 board or complete kits can be purchased from [CanaKit](https:
 The [FLIR Lepton](https://www.flir.com/products/lepton/?model=500-0763-01) thermal camera has a 80x60 pixel resolution with a 50° field of view. 
 
 ![](https://github.com/vsv04/Fall-Detection-System/blob/master/COMPONENTS%20LIST/Images/FLIR%20Lepton.jpg)
+
+The FLIR Lepton 2.5 with development board can be purchased from [Sparkfun](https://www.sparkfun.com/products/15948).
