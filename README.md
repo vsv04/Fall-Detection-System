@@ -13,6 +13,7 @@ The [**Components List**](https://github.com/vsv04/Fall-Detection-System/tree/ma
 **Raspberry Pi 4 connected to the thermal camera and the fully assemled fall detection system**
 
 ## Downloading the Code
+The Deep Learning program uses [Google's Tensorflow](https://www.tensorflow.org/) and [Keras](https://keras.io/). 
 The [**Code**](https://github.com/vsv04/Fall-Detection-System/tree/master/CODE) folder has the Python programs for the fall detection system. 
 
 
