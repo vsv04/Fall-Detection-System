@@ -17,5 +17,4 @@ The [FLIR Lepton](https://www.flir.com/products/lepton/?model=500-0763-01) therm
 The FLIR Lepton 2.5 with development board can be purchased from [Sparkfun](https://www.sparkfun.com/products/15948).
 
 ## Additional components
-[Raspberry Pi case](https://www.canakit.com/official-raspberry-pi-case.html)
-[Raspberry Pi power supply]()
+[Jumper wires](https://www.adafruit.com/product/266) to connect the FLIR Lepton Thermal Camera to the Raspberry Pi. 
