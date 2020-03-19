@@ -13,27 +13,5 @@ The [**Components List**](https://github.com/vsv04/Fall-Detection-System/tree/ma
 **Raspberry Pi 4 connected to the thermal camera and the fully assemled fall detection system**
 
 ## Downloading the Code
-The Deep Learning program uses [Google's TensorFlow](https://www.tensorflow.org/) and [Keras](https://keras.io/). Instructions for installing TensorFlow and Keras on the Raspberry Pi can be found [here](https://keras.io/). 
-The [**Code**](https://github.com/vsv04/Fall-Detection-System/tree/master/CODE) folder has the Python programs for the fall detection system. 
+The Deep Learning program uses Google's TensorFlow, Keras and OpenCV. Follow the instructions available online for installing [TensorFlow and Keras](https://medium.com/@abhizcc/installing-latest-tensor-flow-and-keras-on-raspberry-pi-aac7dbf95f2) and [OpenCV](https://hackaday.io/project/7008-fly-wars-a-hackers-solution-to-world-hunger/log/23068-installing-opencv-on-a-raspberry-pi-the-easy-way) on the Raspberry Pi. Next, download the Python programs in the [**Code**](https://github.com/vsv04/Fall-Detection-System/tree/master/CODE) folder for the fall detection system. 
 
-_**Installing TensorFlow**_
-```
-sudo pip3 install tensorflow
-```
-
-_**Installing Keras**_
-```
-sudo apt-get install python3-numpy
-sudo apt-get install libblas-dev
-sudo apt-get install liblapack-dev
-sudo apt-get install python3-dev 
-sudo apt-get install libatlas-base-dev
-sudo apt-get install gfortran
-sudo apt-get install python3-setuptools
-sudo apt-get install python3-scipy
-
-sudo apt-get update
-sudo apt-get install python3-h5py
-
-sudo pip3 install keras 
-```
