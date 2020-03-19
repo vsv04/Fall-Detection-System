@@ -4,8 +4,7 @@ The following components are required for the fall detection system.
 
 ## Raspberry Pi 4
 The fall detection system uses a [Raspberry Pi 4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/).  A minimum RAM of 2 GB of memory is required to implement deep learning. <br/>
-![](https://github.com/vsv04/Fall-Detection-System/blob/master/COMPONENTS%20LIST/Images/Raspberry%20Pi%204.jpg)
-
+![](https://github.com/vsv04/Fall-Detection-System/blob/master/COMPONENTS%20LIST/Images/Raspberry%20Pi%204.jpg)<br/>
 The Raspberry Pi 4 board can be purchased from [CanaKit](https://www.canakit.com/raspberry-pi-4-2gb.html). You can also purchase a [complete starter kit](https://www.canakit.com/raspberry-pi-4-complete-starter-kit-official-case.html) that comes with a Rasperyy Pi 4, case, power supply, keyboard, mouse and SD card. 
 
 ## FLIR Lepton Thermal Camera
