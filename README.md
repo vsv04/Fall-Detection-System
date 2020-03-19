@@ -19,7 +19,6 @@ The [**Code**](https://github.com/vsv04/Fall-Detection-System/tree/master/CODE) 
 _**Installing TensorFlow**_
 ```
 sudo pip3 install tensorflow
-
 ```
 
 _**Installing Keras**_
