@@ -18,4 +18,5 @@ The FLIR Lepton 2.5 with development board can be purchased from [Sparkfun](http
 
 ## Additional components
 [Jumper wires](https://www.adafruit.com/product/266) to connect the FLIR Lepton Thermal Camera to the Raspberry Pi. 
+
 [RGB (tri-color) LED](https://www.adafruit.com/product/159) to indicate the status of the fall detection system (Optional)
