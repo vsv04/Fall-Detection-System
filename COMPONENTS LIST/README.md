@@ -7,4 +7,4 @@ The fall detection system uses a [Raspberry Pi 4](https://www.raspberrypi.org/pr
 
 ![](https://github.com/vsv04/Fall-Detection-System/blob/master/COMPONENTS%20LIST/Images/Raspberry%20Pi%204.jpg)
 
-The Raspberry Pi 4 can be purchased from [CanaKit](https://www.canakit.com/raspberry-pi-4-2gb.html). 
+The Raspberry Pi 4 board or complete kits can be purchased from [CanaKit](https://www.canakit.com/raspberry-pi-4-2gb.html). 
