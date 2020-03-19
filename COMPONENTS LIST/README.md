@@ -10,6 +10,6 @@ The fall detection system uses a [Raspberry Pi 4](https://www.raspberrypi.org/pr
 The Raspberry Pi 4 board or complete kits can be purchased from [CanaKit](https://www.canakit.com/raspberry-pi-4-2gb.html). 
 
 ## FLIR Lepton Thermal Camera
-The [FLIR Lepton](https://www.flir.com/products/lepton/?model=500-0763-01) thermal camera has a 80x60 pixel resolution with a 55° field of view. 
+The [FLIR Lepton](https://www.flir.com/products/lepton/?model=500-0763-01) thermal camera has a 80x60 pixel resolution with a 50° field of view. 
 
 ![](https://github.com/vsv04/Fall-Detection-System/blob/master/COMPONENTS%20LIST/Images/FLIR%20Lepton.jpg)
