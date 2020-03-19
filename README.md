@@ -1,6 +1,6 @@
 # Real-time Fall Detection System for the Elderly Using Deep Learning and Thermal Imaging
 
-This GitHub repository hosts the programs, hardware list, schematics for the fall detection system developed for a high school research project. This project is open-source and individuals can download the instructions for assembling the system along with the Python code and have a working fall detection system. 
+This GitHub repository hosts the programs, hardware list, schematics for the fall detection system developed for a high school research project. This project is open-source and anyone who is interested can download the instructions for assembling the system along with the Python code and have a working fall detection system. 
 
 The interested reader can download and read the [**Research Paper**](https://github.com/vsv04/Fall-Detection-System/blob/master/RESEARCH%20PAPER/Research%20Paper.pdf) (pdf document) which has additional information.
 
