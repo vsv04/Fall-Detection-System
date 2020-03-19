@@ -12,7 +12,7 @@ The [**Components List**](https://github.com/vsv04/Fall-Detection-System/tree/ma
 ![](https://github.com/vsv04/Fall-Detection-System/blob/master/SCHEMATICS/Images/Fall_detection_system_V3.jpg)
 **Raspberry Pi 4 connected to the thermal camera and the fully assemled fall detection system**
 
-## Downloading the Programs
+## Downloading the Code
 The [**Code**](https://github.com/vsv04/Fall-Detection-System/tree/master/CODE) folder has the Python programs for the fall detection system. 
 
 
