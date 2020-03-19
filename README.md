@@ -17,14 +17,23 @@ The Deep Learning program uses [Google's TensorFlow](https://www.tensorflow.org/
 The [**Code**](https://github.com/vsv04/Fall-Detection-System/tree/master/CODE) folder has the Python programs for the fall detection system. 
 
 sudo apt-get install python3-numpy
+
 sudo apt-get install libblas-dev
+
 sudo apt-get install liblapack-dev
+
 sudo apt-get install python3-dev 
+
 sudo apt-get install libatlas-base-dev
+
 sudo apt-get install gfortran
+
 sudo apt-get install python3-setuptools
+
 sudo apt-get install python3-scipy
+
 sudo apt-get update
+
 sudo apt-get install python3-h5py
 
 # Then install tensorflow and keras
