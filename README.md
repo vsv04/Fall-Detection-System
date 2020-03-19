@@ -32,12 +32,9 @@ sudo apt-get install libatlas-base-dev
 sudo apt-get install gfortran
 sudo apt-get install python3-setuptools
 sudo apt-get install python3-scipy
+
 sudo apt-get update
 sudo apt-get install python3-h5py
+
 sudo pip3 install keras 
-
-pip install scipy
-pip install cython
-
-pip install keras
 ```
