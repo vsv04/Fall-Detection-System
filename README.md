@@ -15,7 +15,7 @@ The [**Parts and Schematics**](https://github.com/vsv04/Fall-Detection-System/tr
 The Deep Learning program uses Google's TensorFlow and Keras for Deep Learning and OpenCV for image processing. Follow the instructions available online for installing [**TensorFlow, Keras**](https://medium.com/@abhizcc/installing-latest-tensor-flow-and-keras-on-raspberry-pi-aac7dbf95f2) and [**OpenCV**](https://hackaday.io/project/7008-fly-wars-a-hackers-solution-to-world-hunger/log/23068-installing-opencv-on-a-raspberry-pi-the-easy-way) on the Raspberry Pi. Next, download and install [**pylepton**](https://github.com/groupgets/pylepton) which is a Python library for capturing images from the Lepton over SPI. 
 
 ## Training the System
-Download the Python programs in the [**Code**](https://github.com/vsv04/Fall-Detection-System/tree/master/CODE) folder to the Raspberry Pi. 
+Download the Python programs in the [**Code**](https://github.com/vsv04/Fall-Detection-System/tree/master/CODE) folder to a separate folder (e.g. '\use\home\Fall Detection') on the Raspberry Pi. 
 
 ## Real-time Fall Detection
 Text
