@@ -17,3 +17,14 @@ The FLIR Lepton 2.5 with development board can be purchased from [Sparkfun](http
 
 [RGB (tri-color) LED](https://www.adafruit.com/product/159) to indicate the status of the fall detection system (Optional)
 
+## Connecting the FLIR Lepton to the Raspberry Pi
+The FLIR Lepton breakout board pins are connected to the GPIO pins on the Raspberry Pi using jumper wires. A GPIO pinout diagram is available at [pinout.xyz] https://pinout.xyz/. </br>
+CS -> Pin 24, CE0
+MOSI -> Pin 19, MOSI
+MISO -> Pin 21, MISO
+CLK -> Pin 23, CLK
+GND -> Pin 6, GND
+VIN -> Pin 1, 3V3
+SDA -> Pin 3, SDA
+SCL -> Pin 5, SCL
+
