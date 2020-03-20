@@ -6,6 +6,7 @@ The interested reader can download and read the [**Research Paper**](https://git
 
 ## Hardware
 The [**Parts and Schematics**](https://github.com/vsv04/Fall-Detection-System/tree/master/PARTS%20%26%20SCHEMATICS) folder has a list of parts needed and assembly instructions for the fall detection system.<br/>
+
 ![](https://github.com/vsv04/Fall-Detection-System/blob/master/PARTS%20%26%20SCHEMATICS/Images/Fall_detection_system_V2.jpg)
 ![](https://github.com/vsv04/Fall-Detection-System/blob/master/PARTS%20%26%20SCHEMATICS/Images/Fall_detection_system_V3.jpg)<br/>
 **Raspberry Pi 4 connected to the thermal camera and the fully assemled fall detection system**
