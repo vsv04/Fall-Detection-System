@@ -1,4 +1,4 @@
-# List of Components for the Fall Detection System
+# Parts and Schematics for Fall Detection System
 
 The following components are required for the fall detection system.
 
