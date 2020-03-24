@@ -1,7 +1,7 @@
 #---------------------------------------------------------------------------
 #                           Save_Image.py
 #              Program to capture and save numbered JPG images
-#                       Written By Vetri S Vel
+#                     Written By: Vetri S Vel
 #---------------------------------------------------------------------------
 # Import libraries
 import os
@@ -15,7 +15,7 @@ import tkinter as tk
 #                  VARIABLES
 #------------------------------------------------------
 #Save images to this location
-directory = "/home/pi/FallDetection/Thermal Images"
+directory = "/home/pi/CODE/Unsorted_Images"
 
 #Starting image number
 img_number = 1
@@ -111,5 +111,3 @@ def button_GUI():
 #------------------------------------------------------
 # Launch the GUI for taking and saving images
 button_GUI()
-    
-
