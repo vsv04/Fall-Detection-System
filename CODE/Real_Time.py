@@ -57,12 +57,12 @@ FallArray = np.zeros(NStack)
 alert_message = "Message from fall detection system: Grandma may have fallen. Please check on her."
 
 #Information specific to your Twilio account
-Twilio_SID = "AC1f88ad364e5200294cdcae408624b16a"
-Twilio_Auth = "8b2a58a2c26119e28458a3d15d2db11b"
-Twilio_number = "+12565703253"
+Twilio_SID = "**************************"
+Twilio_Auth = "*******************"
+Twilio_number = "+1**********"
 
 #Phone number of person who will be notified if a fall is detected
-alert_reciever_number = "+12072998798"
+alert_reciever_number = "+1**********"
 
 Verbose = True
 #-------------------------------------------------------------------------------------
