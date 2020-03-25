@@ -16,6 +16,6 @@ The Deep Learning program uses Google's TensorFlow and Keras for Deep Learning a
 
 ## Python Programs
 Download the Python programs in the [**Code**](https://github.com/vsv04/Fall-Detection-System/tree/master/CODE) folder to a separate folder (e.g. '\home\pi\CODE') on the Raspberry Pi. 
-[Save_Images.py](https://github.com/vsv04/Fall-Detection-System/blob/master/CODE/Save_Images.py) allows the user to capture and save thermal images as jpg files. After saving thermal images, sort them into the "Normal" and "Fallen" folders in "Training_Data".
-[Train_Save_Network.py](https://github.com/vsv04/Fall-Detection-System/blob/master/CODE/Train_Save_Network.py) 
+[Save_Images.py](https://github.com/vsv04/Fall-Detection-System/blob/master/CODE/Save_Images.py) allows the) reads the user to capture and save thermal images as jpg files. After saving thermal images, sort them into the "Normal" and "Fallen" folders in "Training_Data".
+[Train_Save_Network.py](https://github.com/vsv04/Fall-Detection-System/blob/master/CODE/Train_Save_Network.py) uses the saved images to train a convolutional neural network (CNN) and saves its defining information as "trained_model.h5". [Real_Time.py](https://github.com/vsv04/Fall-Detection-System/blob/master/CODE/Real_Time.py) reads the
 
