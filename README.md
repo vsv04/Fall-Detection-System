@@ -14,11 +14,6 @@ The [**Parts and Schematics**](https://github.com/vsv04/Fall-Detection-System/tr
 ## Software Libraries
 The Deep Learning program uses Google's TensorFlow and Keras for Deep Learning and OpenCV for image processing. Follow the instructions available online for installing [**TensorFlow, Keras**](https://medium.com/@abhizcc/installing-latest-tensor-flow-and-keras-on-raspberry-pi-aac7dbf95f2) and [**OpenCV**](https://hackaday.io/project/7008-fly-wars-a-hackers-solution-to-world-hunger/log/23068-installing-opencv-on-a-raspberry-pi-the-easy-way) on the Raspberry Pi. Next, download and install [**pylepton**](https://github.com/groupgets/pylepton) which is a Python library for capturing images from the Lepton over SPI.  For sending alerts, install [**Twilio**](https://www.twilio.com/docs/libraries/python) API using the command **pip3 install twilio**.
 
-## Python Code for Fall Detection
-Download the Python programs in the [**Code**](https://github.com/vsv04/Fall-Detection-System/tree/master/CODE) folder to a separate folder (e.g. '\use\home\Fall Detection') on the Raspberry Pi. 
+## Python Programs
+Download the Python programs in the [**Code**](https://github.com/vsv04/Fall-Detection-System/tree/master/CODE) folder to a separate folder (e.g. '\home\pi\CODE') on the Raspberry Pi. [Save_Images.py](https://github.com/vsv04/Fall-Detection-System/blob/master/CODE/Save_Images.py) allows the user to capture and save thermal images as jpg files. 
 
-## Training the System
-Text
-
-## Real-time Fall Detection
-Text
