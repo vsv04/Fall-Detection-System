@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------------------
 #                                 Real_Time.py
-# Preprocess Training Data then Train and Save the Convolutional Deep Learning Network
+#                        Real-time Fall Detection System
 #                           Written By: Vetri S Vel
 #-------------------------------------------------------------------------------------
 #-------------------------------------------------------------------------------------
@@ -139,7 +139,7 @@ model.compile(loss='categorical_crossentropy',
 model.load_weights(ModelSaveFile)
 
 #-------------------------------------------------------------------------------------
-#                          Setup Pretrained Model
+#               Detect falls in real time and call for help
 #-------------------------------------------------------------------------------------
 
 while True:
