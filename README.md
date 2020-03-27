@@ -16,4 +16,5 @@ The Deep Learning program uses Google's TensorFlow and Keras for Deep Learning a
 
 ## Python Programs
 Download the Python programs in the [**CODE**](https://github.com/vsv04/Fall-Detection-System/tree/master/CODE) folder to a separate folder (e.g. '/home/pi/CODE') on the Raspberry Pi. The algorithm in the flowchart for training the neural network, shown below, was programmed in Python. Refer to [**CODE/Readme**](https://github.com/vsv04/Fall-Detection-System/blob/master/CODE/Readme.md) for instructions on how to use the programs. <br/>
+
 ![](https://github.com/vsv04/Fall-Detection-System/blob/master/CODE/Images/FlowchartSmall.jpg)
