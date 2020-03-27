@@ -9,7 +9,7 @@ The [pylepton](https://github.com/vsv04/Fall-Detection-System/tree/master/CODE/p
 
 ![](https://github.com/vsv04/Fall-Detection-System/blob/master/CODE/Images/StandingSmall.jpg)
 ![](https://github.com/vsv04/Fall-Detection-System/blob/master/CODE/Images/FallenSmall.jpg)<br/>
-**Thermal images of a person standing and lying on the floor**
+**Thermal images of a person standing and lying on the floor (80x60 pixels)**
 
 ## Python code for training the neural network
 [Train_Save_Network.py](https://github.com/vsv04/Fall-Detection-System/blob/master/CODE/Train_Save_Network.py) uses the saved images to train a convolutional neural network (CNN) and saves its defining information as "trained_model.h5". 
