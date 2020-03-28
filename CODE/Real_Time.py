@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------------------
 #                                 Real_Time.py
-#                        Real-time Fall Detection System
+#             Program for Real-time Fall Detection using Trained CNN
 #                           Written By: Vetri S Vel
 #-------------------------------------------------------------------------------------
 #-------------------------------------------------------------------------------------
@@ -22,7 +22,6 @@ from tensorflow.keras.layers import Conv2D, MaxPooling2D
 from tensorflow.keras.utils import to_categorical
 from keras.models import load_model
 from pylepton import Lepton
-
 
 #-------------------------------------------------------------------------------------
 #                                Input Data
