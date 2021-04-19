@@ -1,4 +1,4 @@
-# Real-time Fall Detection System for the Elderly Using Deep Learning and Thermal Imaging
+# Readily Implementable Fall Detection System for the Elderly using Thermal Image Segmentation and Convolutional Neural Networks
 
 This GitHub repository hosts the programs, hardware list and the schematics for the fall detection system developed for a high school research project. This project is _**open-source**_ and anyone who is interested can download the instructions for assembling the system along with the Python code and put together a working fall detection system. This repository will be updated periodically as the system is further developed and refined. <br/>
 
